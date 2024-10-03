@@ -9,7 +9,7 @@ pipenv shell
 pip install streamlit
 mkdir analisis-data-sepeda
 
-## Run steamlit app
 ```
+## Run steamlit app
 streamlit run bike_rentals_dashboard.py
 ```
